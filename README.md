@@ -1,6 +1,6 @@
 # Hello, I'm Matej 👋
 
-I’m a first-year Computer Science student at the Faculty of Computer Science and Engineering, pursuing a Bachelor’s degree in Computer Science.  
+I’m a first-year Computer Science student at the Faculty of Computer Science and Engineering - Ss. Cyril and Methodius University, pursuing a Bachelor’s degree in Computer Science.  
 
 I’m passionate about building projects with Arduino, exploring embedded systems, and learning how software and hardware come together.  
 
