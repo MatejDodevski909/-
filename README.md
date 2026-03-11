@@ -13,7 +13,7 @@ Always looking forward to creating, experimenting, and improving my skills throu
 - Embedded systems (Still learning...)
 
 ## 🚀 Projects
-- **Arduino RC Car** – Controlled with USB Host Shield & L298N driver  
+- **Arduino RC Car** – Controlled with USB Host Shield & L298N driver [Click Here](https://github.com/MatejDodevski909/arduino-rc-car)
 - **Fitness-Powered RC Car (Ongoing)** – AI tracks your exercises to unlock speed limits    
 
 ## 📫 Contact
