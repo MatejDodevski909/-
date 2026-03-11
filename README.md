@@ -1,4 +1,4 @@
-# Hello, I'm me 👋
+# Hello, I'm Matej 👋
 
 I’m a first-year Computer Science student at the Faculty of Computer Science and Engineering, pursuing a Bachelor’s degree in Computer Science.  
 
